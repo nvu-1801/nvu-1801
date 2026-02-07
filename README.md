@@ -44,18 +44,19 @@ I enjoy turning complex problems into simple, performant, and user-friendly solu
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nvu-1801&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=nvu-1801&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+This card shows my overall GitHub activity including commits, contributions, and repositories. It reflects my continuous learning journey and hands-on experience through real-world projects.
 
 ---
 
-### 🧠 Top Languages
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvu-1801&layout=compact&theme=tokyonight" />
-</p>
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+These are the programming languages I use most frequently. They represent my strongest technical skills and the core technologies I work with when building AI, backend, and data-driven applications.
 
 ---
 
