@@ -46,17 +46,13 @@ I enjoy turning complex problems into simple, performant, and user-friendly solu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-This card shows my overall GitHub activity including commits, contributions, and repositories. It reflects my continuous learning journey and hands-on experience through real-world projects.
+This section highlights my overall development activity on GitHub, including contributions, commits, pull requests, and issue tracking. It reflects my consistency in learning, building projects, and actively improving my technical skills through real-world practice.
 
 ---
 
 ## 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-These are the programming languages I use most frequently. They represent my strongest technical skills and the core technologies I work with when building AI, backend, and data-driven applications.
+Here are the programming languages I use most frequently across my projects. They represent my primary technical strengths and the tools I rely on to build efficient, scalable, and practical solutions.
 
 ---
 
